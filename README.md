@@ -28,6 +28,8 @@ Watch the demo video:
 
 ![Gif demo of README-generator](demo.gif)
 
+[Link to video](https://drive.google.com/file/d/1vzaOJCbAG-lSoff_3Kbe2C50eFDk_1NA/view)
+
 ## License
 ISC
 
