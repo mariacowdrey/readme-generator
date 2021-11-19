@@ -24,6 +24,8 @@ Every project needs a quality README. A README is a text file that introduces an
 
 ## Usage 
 Watch the demo video:
+
+
 ![Gif demo of README-generator](demo.gif)
 
 ## License
